@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-log-aggregation"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS log-aggregation component - observability"
+
+[lib]
+name = "log_aggregation"
+path = "src/lib.rs"
