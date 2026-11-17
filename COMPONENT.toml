@@ -3,7 +3,7 @@ name = "SigmaOS-log-aggregation"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "log-aggregation component"
+description = "Log Aggregation"
 upstream = []
 
 [contract]
